@@ -30,14 +30,18 @@ MATLAB R2023b and above
 If you used this code and find it helpful to your research, please consider citing our paper:
 
 ```
-@article{lu2024convmatpll,
-  title={Computationally-Efficient Linear Periodically Time-Variant Digital PLL Modeling Using Conversion Matrices and Uncorrelated Upsampling},
-  author={Lu, Hongyu and Mercier, Patrick P},
-  journal={arXiv preprint arXiv:2401.13897},
-  year={2024}
-}
+@ARTICLE{lu2024convmatpll,
+  author={Lu, Hongyu and Mercier, Patrick P.},
+  journal={IEEE Transactions on Circuits and Systems I: Regular Papers}, 
+  title={Linear Periodically Time-Variant Digital PLL Phase Noise Modeling Using Conversion Matrices and Uncorrelated Upsampling}, 
+  year={2024},
+  volume={71},
+  number={12},
+  pages={6021-6033},
+  keywords={Phase locked loops;Linear systems;Noise;Computational modeling;Time-frequency analysis;Phase noise;Harmonic analysis;Conversion matrix;harmonic transfer matrix (HTM);phase-locked loop (PLL);phase noise;linear periodically time-variant (LPTV);noise folding},
+  doi={10.1109/TCSI.2024.3415001}}
 ```
 
 ```
-Lu H, Mercier P P. Computationally-Efficient Linear Periodically Time-Variant Digital PLL Modeling Using Conversion Matrices and Uncorrelated Upsampling[J]. arXiv preprint arXiv:2401.13897, 2024.
+H. Lu and P. P. Mercier, "Linear Periodically Time-Variant Digital PLL Phase Noise Modeling Using Conversion Matrices and Uncorrelated Upsampling," in IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 71, no. 12, pp. 6021-6033, Dec. 2024, doi: 10.1109/TCSI.2024.3415001.
 ```
